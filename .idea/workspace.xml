@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd919b39-6db5-4fdd-b2f2-3ab6562ee2ac" name="Default Changelist" comment="" />
+    <list default="true" id="bd919b39-6db5-4fdd-b2f2-3ab6562ee2ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/assert.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/assert.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/async_hooks.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/async_hooks.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/child_process.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/child_process.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/cluster.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/cluster.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/crypto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/dgram.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/dgram.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/dns.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/dns.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/domain.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/domain.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/events.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/events.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/fs.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/globals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/globals.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/http.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/http.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/http2.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/https.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/https.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/module.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/module.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/net.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/net.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/os.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/os.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/path.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/path.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/perf_hooks.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/perf_hooks.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/querystring.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/querystring.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/readline.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/readline.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/repl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/repl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/stream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/tls.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/tls.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/ts3.2/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/ts3.2/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/url.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/url.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/v8.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/v8.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/vm.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/vm.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/worker_threads.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/@types/node/worker_threads.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/pg-hstore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/pg-hstore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/pg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/pg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/postgres-date/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/postgres-date/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/postgres-date/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/postgres-date/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/lib/dialects/abstract/connection-manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/lib/dialects/abstract/connection-manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/lib/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/lib/model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/types/lib/model.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/sequelize/types/lib/model.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore-min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore-min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/node_modules/underscore/underscore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/db/strategies/base/contextStrategy.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/db/strategies/base/contextStrategy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/db/strategies/postgres.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/db/strategies/postgres.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/postgreExemple.js" beforeDir="false" afterPath="$PROJECT_DIR$/aula06-multibancosreais-postgress/src/postgreExemple.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +75,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
   <component name="ProjectId" id="1ZRtGvPhRaM03anL4mvldpw9jVU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
@@ -74,10 +133,25 @@
       <workItem from="1584813643224" duration="1217000" />
       <workItem from="1584814890092" duration="9454000" />
       <workItem from="1585146564521" duration="152000" />
+      <workItem from="1587501612235" duration="63000" />
+      <workItem from="1587558891885" duration="603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
