@@ -23,6 +23,10 @@ class ICrud {
     delete(id) {
         throw new NotImplementedException()
     }
+
+    connect() {
+        throw new NotImplementedException()
+    }
 }
 
 module.exports = ICrud
